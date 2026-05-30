@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-Focused on backend systems, identity platforms, cloud infrastructure and AI-enabled developer tools.
+Focused on backend systems, data pipelines, identity platforms, cloud infrastructure and AI-enabled developer tools.
 
 I have built production systems across healthcare, identity, RAG applications and cloud-native platforms using Java, Spring Boot, FastAPI, Go, TypeScript, AWS, PostgreSQL, Redis, Docker and CI/CD tooling.
 
