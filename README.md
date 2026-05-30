@@ -7,7 +7,7 @@ I have built production systems across healthcare, identity, RAG applications an
 
 ## Currently Working On
 
-Currently interning as a Data Engineer, building data pipelines, developing Airflow DAGs and working with Google BigQuery to support scalable analytics
+Interning as a Data Engineer, building data pipelines, developing Airflow DAGs and working with Google BigQuery to support scalable analytics
 
 ## What I work on
 
