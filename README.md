@@ -36,7 +36,7 @@ Designed AWS Step Functions workflows to improve reliability for long-running ba
 **Cloud & DevOps:** Docker, Kubernetes, Jenkins, GitHub Actions
 **Databases:** PostgreSQL, MySQL, SQL Server, Redis  
 **AI/ML Tools:** LangChain, LangGraph, OpenAI embeddings, MCP   
-**AWS Services:** EC2, RDS, S3, Lambda, Cloudwatch, Step Functions, CloudFormation, Cloudfront, API Gateway
+**AWS Services:** EC2, RDS, S3, Lambda, Cloudwatch, Step Functions, CloudFormation, Cloudfront, API Gateway   
 **GCP Services:** BigQuery, Pub/Sub, Cloud Composer
 
 ## Connect
